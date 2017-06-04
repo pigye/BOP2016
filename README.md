@@ -16,3 +16,5 @@ solver是表示[id,id],[id,AA.Auid],[AA.Auid,id],[AA.Auid,id]的路径处理
 thread采用多线程类
 
 util 是核心方法类，JsonUtil用作json处理，Prepare用作接口字符串的处理，对象的赋值，Timer用作计时。
+
+hjq留
